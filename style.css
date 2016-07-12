@@ -1,0 +1,91 @@
+.clearbox{
+	clear:both;
+	overflow:hidden;
+}
+#search{
+	float:left;
+	margin-top:2%;
+}
+#search div{
+	float:right;
+	height:18px;
+}
+#search div form input{
+	background-image:url("images/search_input.png");
+	width:100px;
+	border:none;
+}
+header{
+	background:#737373;
+	width:100%;
+	height:105px;
+}
+#search #eng{
+	color:white;
+	margin-left:10px;
+}
+#header{
+	width:900px;
+	margin:0 auto;
+}
+#headerul{
+	float:right;
+	width:100%;
+	height:67%;
+}
+#headern ul li{
+	float:right;
+	list-style:none;
+	margin-right:34px;
+	border-right:1px solid #FFFFFF;
+	padding-right:5px;
+	text-align:center;
+	color:#FFFFFF;
+}
+#headerul img{
+	float:right;
+}
+#headern{
+	margin-top:40px;
+	width:100%;
+	height:42%;
+	padding:0;
+}
+#headern ul{
+	height:50%;
+	padding:0;
+}
+#images1{
+	width:100%;
+	margin:0 auto;
+}
+#images1 div{
+	float:right;
+	margin-left:5px;
+}
+#li1{
+	background-image:url("images/1908364606615453350.JPG");
+	width:291px;
+	height:353px;
+}
+#body{
+	width:900px;
+	margin:0 auto;
+}
+#li2{
+	background-image:url("images/Picture-046410251500.jpg");
+    width:291px;
+    height:354px;
+}
+#li3{
+	background-image:url("images/פזקר_-291_354410564000.jpg");
+	width:291px;
+	height:354px;
+}
+#images1 div p{
+	background-image:url("images/menu_dropdown_bg.png");
+	background-repeat:no-repeat;
+	float:right;
+	direction: rtl;
+	margin-top:242px;
+}
