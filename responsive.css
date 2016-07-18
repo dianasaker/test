@@ -1,0 +1,40 @@
+#menuh nav{
+	display:none
+}
+footer{
+	display: none;
+}
+#hdiv{
+	width:auto;
+}
+#hdiv #search{
+	width:262px;
+}
+#hdiv #menuh{
+	width:142px;
+	height:93px;
+}
+#photo{
+	width:auto;
+	margin:0 auto;
+}
+#photo .ph3{
+	float:none;
+	width:292px;
+	margin:0 auto;
+	margin-bottom:15px;
+	border:3px groove #999999;
+}
+#lastd{
+	width:auto;
+	margin:0 auto;
+}
+#lastd .box{
+	float:none;
+	width:292px;
+	margin:0 auto;
+	margin-bottom:15px;
+}
+body{
+	width:auto;
+}
